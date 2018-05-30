@@ -1,1 +1,0 @@
-# bootcamp2-code-wars
